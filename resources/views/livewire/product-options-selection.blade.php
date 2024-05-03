@@ -15,7 +15,7 @@
                                                 class="bg-gray-300"
                                            @endif
                                        @endif
-                                       wire:model="selectedAttributes.{{$attribute['id']}}">
+                                       wire:model.live="selectedAttributes.{{$attribute['id']}}">
                                 {{ $attributeOption['value'] }}
                             </label>
                         </div>

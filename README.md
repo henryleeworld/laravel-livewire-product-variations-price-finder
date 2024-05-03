@@ -35,8 +35,8 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/1vRQkDW.png)
+![](https://i.imgur.com/Lif2Xdt.png)
 > 列出所有產品
 
-![](https://i.imgur.com/8zs8ZyR.png)
+![](https://i.imgur.com/FdqkGkA.png)
 > 產品的每個選項值組合，即為該產品的子類，可以查詢個別的價格
