@@ -26,6 +26,6 @@
     @endforeach
 
     <div>
-        <span class="text-xl font-bold">{{ __('Price:') }}</span> <span>{{ $price }}</span>
+        <span class="text-xl font-bold">{{ __('Price: ') }}</span><span>{{ $price }}</span>
     </div>
 </div>

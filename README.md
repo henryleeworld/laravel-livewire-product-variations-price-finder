@@ -1,4 +1,4 @@
-# Laravel 10 Livewire 產品子類價格查詢器
+# Laravel 11 Livewire 產品子類價格查詢器
 
 子類是指一組類似產品，僅在產品詳細資料方面有差異，例如尺寸、顏色、材質、圖案、年齡層，以及性別，可以個別有不同的價格以供查詢。
 
@@ -35,8 +35,8 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/Lif2Xdt.png)
+![](https://i.imgur.com/J6OWrhH.png)
 > 列出所有產品
 
-![](https://i.imgur.com/FdqkGkA.png)
+![](https://i.imgur.com/O0sYQja.png)
 > 產品的每個選項值組合，即為該產品的子類，可以查詢個別的價格

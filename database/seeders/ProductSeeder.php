@@ -10,6 +10,9 @@ use Illuminate\Support\Facades\DB;
 
 class ProductSeeder extends Seeder
 {
+    /**
+     * Run the database seeders.
+     */
     public function run(): void
     {
         $attributesByName = Attribute::pluck('id', 'name')->toArray();
